@@ -10,7 +10,7 @@
  *   Este archivo forma parte de la serie educativa de ejemplos en C.
  *   El objetivo es enseñar estructura, claridad y documentación.
  *
-  References:
+ * References:
  *   NASA/JPL Institutional Coding Standard for the C Programming Language.
  *
  * Author(s):
@@ -107,3 +107,4 @@ int calculate_damage(int strength, int weapon_power)
 
     return total_damage;
 }
+
