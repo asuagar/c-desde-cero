@@ -24,6 +24,8 @@
  * Coding Standard: NASA/JPL C (4 spaces, braces on new line)
  */
 
+#include<stdio.h>
+
 /*
  * Función: main
  * -------------------------------------
@@ -35,7 +37,6 @@
  *  Retorna:
  *    0  - Finalización correcta del programa.
  */
-
 int main(void)
 {
     /* Entero: número sin decimales */
@@ -62,4 +63,5 @@ int main(void)
 
     /* Retornar código de éxito explícito */
     return 0;
+
 }
