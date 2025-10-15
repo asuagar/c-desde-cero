@@ -1,5 +1,5 @@
 /**
- * @file 1_hola_mundo_full.c
+ * @file 01_hola_mundo.c
  * @brief Lección 1: Hello word!
  * @details 
  * Este archivo contiene tu primer programa en C y tu primera lección.
@@ -120,3 +120,4 @@ int main(void)
  * Deberías ver "Hello, World!" impreso en la consola. 
  *
  */
+
