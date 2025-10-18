@@ -7,7 +7,6 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/Licencia-MIT-green.svg" alt="Licencia MIT"></a>
 </p>
 
----
 
 # C Desde Cero
 
