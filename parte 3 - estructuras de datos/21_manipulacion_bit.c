@@ -27,7 +27,8 @@
  * C proporciona un conjunto especial de OPERADORES BITWISE que le permiten 
  * manipular estos bits individuales directamente. Esta es una característica 
  * de bajo nivel que es increíblemente poderosa para tareas como:
- * - Controlar dispositivos de hardware donde cada bit en un registro tiene un significado.
+ * - Controlar dispositivos de hardware donde cada bit en un registro 
+ *   tiene un significado.
  * - Escribir código altamente eficiente para algoritmos específicos.
  * - Almacenar múltiples flags booleanos (verdadero/falso) en un solo byte.
  *
@@ -125,10 +126,6 @@ int main()
     print_binary(right_shifted);
     printf("\n\n");
 
-    //
-    // -------------------------------------------------------------------------------------------------------------
-    //
-
     /* --- Parte 3: Uso Práctico - BITMASKS para Flags --- 
      * Una máscara de bits (bitmask) se utiliza para comprobar
      * un bit específico dentro de un byte u otro valor. 
@@ -198,4 +195,5 @@ int main()
  *
  * Esta es una habilidad de bajo nivel pero esencial para cualquier programador C serio.
  *
+
  */
