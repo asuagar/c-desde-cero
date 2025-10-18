@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://github.com/dunamismax/images/blob/main/c/LLVMWyvern.png" alt="LLVM Wyvern Programación en C" width="350" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dunamismax/c-from-the-ground-up">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3071A4&center=true&vCenter=true&width=1000&lines=Curso+Aprende+C+Desde+Cero;Plan+de+Estudios+Completo+Basado+en+Proyectos;Desde+Hello+World+hasta+Programación+de+Sistemas;Aprende+Construyendo+Aplicaciones+Reales;Buenas+Prácticas+de+Desarrollo+Seguro+en+C;Lecciones+en+Archivos+Únicos+con+Código+Completo;Crea+un+Portafolio+de+Herramientas+CLI;Domina+Punteros+y+Memoria+Dinámica;Interfaces+de+Terminal+Avanzadas+con+ncurses;Procesamiento+de+Archivos+Multihilo;Programación+de+Sockets+y+Redes;Proyecto+Final+de+Aventura+de+Texto;Sin+Requisitos+Previos+Amigable+para+Principiantes;Educativo+y+de+Excelencia+Open+Source" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C11_(C_standard_revision)"><img src="https://img.shields.io/badge/C11-Estándar-00599C.svg" alt="Estándar C11"></a>
@@ -55,6 +46,7 @@ gcc -Wall -Wextra -std=c11 -o programa archivo.c
 # En lecciones con Makefile
 make
 ./programa
+```
 
 ## Compatibilidad
 
@@ -111,3 +103,4 @@ Funciona en todas las plataformas principales que admiten compiladores C.
     ├── 33_InterfazTerminal/         # Interfaces con ncurses
     ├── 34_AnalisisDatos/            # Archivos de configuración
     └── 35_AventuraTexto/            # RPG final tipo aventura
+```
