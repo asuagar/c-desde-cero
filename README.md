@@ -101,7 +101,7 @@ Funciona en todas las plataformas principales que admiten compiladores C.
     └── 35_AventuraTexto/            # RPG final tipo aventura
 ```
 
-### Créditos y Licencia
+## Créditos y Licencia
 
 Este proyecto se basa en el curso original [**C From the Ground Up**](https://github.com/dunamismax/c-from-the-ground-up), desarrollado también por **DunamisMax** y distribuido bajo licencia **MIT**.    
 
