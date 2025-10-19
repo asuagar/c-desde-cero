@@ -1,5 +1,9 @@
 
 <p align="center">
+  <img src="https://github.com/dunamismax/images/blob/main/c/C-Logo.png" alt="Logo del Lenguaje C" width="150" />
+</p>
+
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/C11_(C_standard_revision)"><img src="https://img.shields.io/badge/C11-Estándar-00599C.svg" alt="Estándar C11"></a>
   <a href="https://www.gnu.org/software/make/"><img src="https://img.shields.io/badge/Make-Sistema_de_Construcción-3071A4.svg" alt="Make Build System"></a>
   <a href="https://en.wikipedia.org/wiki/Ncurses"><img src="https://img.shields.io/badge/UI-ncurses-9cf" alt="ncurses"></a>
@@ -19,10 +23,6 @@ Cada concepto se aprende leyendo los comentarios dentro de un único archivo C e
 - **Sin requisitos previos**: Diseñado para principiantes absolutos sin experiencia en programación  
 - **Aprendizaje basado en proyectos**: Construye herramientas, juegos y aplicaciones reales de consola  
 - **Enfoque en seguridad de memoria**: Aprende buenas prácticas de programación segura desde el inicio  
-
-<p align="center">
-  <img src="https://github.com/dunamismax/images/blob/main/c/C-Logo.png" alt="Logo del Lenguaje C" width="150" />
-</p>
 
 ## Flujo de Trabajo
 
