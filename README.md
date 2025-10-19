@@ -10,18 +10,15 @@
 
 # C Desde Cero
 
-Un plan de estudios completo y de código abierto que enseña C construyendo desde cero un portafolio de herramientas y aplicaciones reales.  
-Este curso usa un método único y práctico: **la lección está en el código**.  
+Este curso usa un método único y práctico: **la lección está en el código**.
 Cada concepto se aprende leyendo los comentarios dentro de un único archivo C ejecutable por tema.
 
 ## Características Principales
 
-- **Aprende Directamente en el Código**: Cada lección se enseña dentro de los comentarios de un solo archivo C ejecutable  
-- **Sin Requisitos Previos**: Diseñado para principiantes absolutos sin experiencia en programación  
-- **Aprendizaje Basado en Proyectos**: Construye herramientas, juegos y aplicaciones reales de consola  
-- **Enfoque en Seguridad de Memoria**: Aprende buenas prácticas de programación segura desde el inicio  
-- **Portafolio Completo**: Desde programas de consola hasta sistemas multihilo  
-- **Excelencia Open Source**: Currículo impulsado por la comunidad y bien documentado  
+- **Aprende directamente en el código**: Cada lección se enseña dentro de los comentarios de un solo archivo C ejecutable  
+- **Sin requisitos previos**: Diseñado para principiantes absolutos sin experiencia en programación  
+- **Aprendizaje basado en proyectos**: Construye herramientas, juegos y aplicaciones reales de consola  
+- **Enfoque en seguridad de memoria**: Aprende buenas prácticas de programación segura desde el inicio  
 
 <p align="center">
   <img src="https://github.com/dunamismax/images/blob/main/c/C-Logo.png" alt="Logo del Lenguaje C" width="150" />
@@ -103,3 +100,10 @@ Funciona en todas las plataformas principales que admiten compiladores C.
     ├── 34_AnalisisDatos/            # Archivos de configuración
     └── 35_AventuraTexto/            # RPG final tipo aventura
 ```
+
+### Créditos y Licencia
+
+Este proyecto se basa en el curso original [**C From the Ground Up**](https://github.com/dunamismax/c-from-the-ground-up), desarrollado también por **DunamisMax** y distribuido bajo licencia **MIT**.    
+
+Todos los archivos y modificaciones adicionales de este repositorio se publican bajo la misma licencia **MIT**.
+
