@@ -31,13 +31,13 @@ Cada concepto se aprende leyendo los comentarios dentro de un único archivo C e
 cd Parte1_Conceptos_Básicos/01_HelloWorld
 
 # Lee la lección (comentarios en el archivo .c)
-cat 1_hello_world.c
+cat 01_hola_mundo.c
 
 # Compila con las banderas recomendadas
-gcc -Wall -Wextra -std=c11 -o hola_mundo hello_world.c
+gcc -Wall -Wextra -std=c11 -o hola 01_hola_mundo.c
 
 # Ejecuta el programa
-./hola_mundo
+./hola
 
 # En lecciones con Makefile
 make
