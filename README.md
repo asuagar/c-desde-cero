@@ -34,10 +34,10 @@ cd Parte1_Conceptos_Básicos/01_HelloWorld
 cat 1_hello_world.c
 
 # Compila con las banderas recomendadas
-gcc -Wall -Wextra -std=c11 -o programa archivo.c
+gcc -Wall -Wextra -std=c11 -o hola_mundo hello_world.c
 
 # Ejecuta el programa
-./programa
+./hola_mundo
 
 # En lecciones con Makefile
 make
